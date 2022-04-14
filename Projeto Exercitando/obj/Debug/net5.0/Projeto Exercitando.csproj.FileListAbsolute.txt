@@ -1,0 +1,16 @@
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\bin\Debug\net5.0\Projeto Exercitando.exe
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\bin\Debug\net5.0\Projeto Exercitando.deps.json
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\bin\Debug\net5.0\Projeto Exercitando.runtimeconfig.json
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\bin\Debug\net5.0\Projeto Exercitando.runtimeconfig.dev.json
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\bin\Debug\net5.0\Projeto Exercitando.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\bin\Debug\net5.0\ref\Projeto Exercitando.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\bin\Debug\net5.0\Projeto Exercitando.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\obj\Debug\net5.0\Projeto Exercitando.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\obj\Debug\net5.0\Projeto Exercitando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\obj\Debug\net5.0\Projeto Exercitando.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\obj\Debug\net5.0\Projeto Exercitando.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\obj\Debug\net5.0\Projeto Exercitando.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\obj\Debug\net5.0\Projeto Exercitando.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\obj\Debug\net5.0\ref\Projeto Exercitando.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\obj\Debug\net5.0\Projeto Exercitando.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\aulas\Projeto Exercitando\obj\Debug\net5.0\Projeto Exercitando.genruntimeconfig.cache
