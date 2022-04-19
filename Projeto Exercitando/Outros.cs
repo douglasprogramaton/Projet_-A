@@ -26,7 +26,9 @@ namespace Projeto_Exercitando
 
 
             Console.WriteLine("Inicio de uma Guerra No territorio amazonico ");
+            Console.ReadLine();
             Console.WriteLine("=============================================");
+            Console.ReadLine();
             Console.WriteLine($"Digite a quantidade de soldados Brasileiros");
             int QuantidadeBR = int.Parse(Console.ReadLine());
             List<int> Qtdesd = new List<int>();
@@ -69,31 +71,7 @@ namespace Projeto_Exercitando
             }
         }
     }
-}
-public class Outros
-{
 
-    static string armasEequipamentos;
-    
-
-    public static List<int> preços = new List<int>();
-
-    public static void Outro()
-    {
-        Console.WriteLine("Quantas armas serao utilizadas");
-        List<int> Qtdea = new List<int>();
-        int armasadd = int.Parse(Console.ReadLine());
-        for (int i = 0; i < armasadd; i++)
-        {
-
-            Qtdea.Add(armasadd + 1);
-
-            Console.WriteLine("Adicione os armatentos e equipamentos desejados");
-            armasEequipamentos = Console.ReadLine();
-           //armamentosbr.Add(armasEequipamentos);
-
-        }
-    }
 }
 
 

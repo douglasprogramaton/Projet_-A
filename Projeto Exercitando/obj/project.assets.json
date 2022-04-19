@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\aulas\\Projeto Exercitando\\Projeto Exercitando.csproj",
+      "projectUniqueName": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\Projet_-A\\Projeto Exercitando\\Projeto Exercitando.csproj",
       "projectName": "Projeto Exercitando",
-      "projectPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\aulas\\Projeto Exercitando\\Projeto Exercitando.csproj",
+      "projectPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\Projet_-A\\Projeto Exercitando\\Projeto Exercitando.csproj",
       "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\aulas\\Projeto Exercitando\\obj\\",
+      "outputPath": "C:\\Users\\dougl\\OneDrive\\Área de Trabalho\\Projet_-A\\Projeto Exercitando\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

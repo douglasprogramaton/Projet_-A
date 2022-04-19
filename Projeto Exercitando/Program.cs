@@ -10,9 +10,11 @@ namespace Projeto_Exercitando
     {
 
         static void Main()
-        {
+        { 
             Guerra.Start();
-            Outros.Outro();
+            Armamentos.Outros.Outro();
+            
+            
         }
     }
     
